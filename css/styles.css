@@ -1,0 +1,19 @@
+/* Stylesheet */
+
+#container {
+    background: orange;
+}
+
+.item { 
+    width: 25%;
+    background: #084985;
+    border: 10px solid #fff;
+}
+
+.item.w2 { width: 50%; }
+
+.stamp {
+    position: absolute;
+    right: 0;
+    bottom: 200px;
+}
